@@ -16,5 +16,5 @@ python train_HMM.py
 python demo_HMM.py
 ```
 
-另外方法类似。
+其他两种方法类似。
 
